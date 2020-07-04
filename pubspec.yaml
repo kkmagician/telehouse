@@ -1,0 +1,10 @@
+name: telehouse_dart
+description: A small executable for sending Telegraf metrics to ClickHouse
+version: 1.0.0
+
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+
+dependencies:
+  http: ^0.12.1
+  args: ^1.6.0

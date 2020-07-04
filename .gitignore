@@ -1,0 +1,11 @@
+# Files and directories created by pub
+.dart_tool/
+.idea
+.packages
+
+# Dev
+telehouse
+metrics.json
+pubspec.lock
+docker-compose.yml
+CH_PASS
